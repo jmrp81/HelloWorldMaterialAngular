@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/prebuilt-themes/purple-green.css';
+
+mat-grid-tile {
+  background: lightblue;
+}
+
+body{
+  background-color: rgb(134, 26, 235);
+}
+
+button{
+  background-color: #3f51b5;
+  width: 100%;
+  text-align: justify;
+}
+
+.urlToOtherWeb{
+  width: 100%;
+}
